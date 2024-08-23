@@ -1,0 +1,13 @@
+[
+    {"course_id": 1, "course_name": "Mathematics"},
+    {"course_id": 2, "course_name": "Physics"},
+    {"course_id": 3, "course_name": "Chemistry"},
+    {"course_id": 4, "course_name": "Biology"},
+    {"course_id": 5, "course_name": "Computer Science"},
+    {"course_id": 6, "course_name": "English Literature"},
+    {"course_id": 7, "course_name": "History"},
+    {"course_id": 8, "course_name": "Geography"},
+    {"course_id": 9, "course_name": "Economics"},
+    {"course_id": 10, "course_name": "Art"},
+    {"course_id": 11, "course_name": "Philosophy"}
+]
