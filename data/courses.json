@@ -1,0 +1,10 @@
+[
+    {"course_id": 1, "course_name": "SE"},
+    {"course_id": 2, "course_name": "TCS"},
+    {"course_id": 3, "course_name": "DWM"},
+    {"course_id": 4, "course_name": "PGM"},
+    {"course_id": 5, "course_name": "IP"},
+    {"course_id": 6, "course_name": "CN"},
+    {"course_id": 7, "course_name": "AIML"},
+    {"course_id": 8, "course_name": "Data Science"}
+]

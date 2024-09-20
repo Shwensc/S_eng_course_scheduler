@@ -1,0 +1,65 @@
+[
+    {
+        "course_id": 1,
+        "teacher_id": 1,
+        "day": "Friday",
+        "time_slot": "08:45 - 10:15",
+        "room": "Room 102"
+    },
+    {
+        "course_id": 1,
+        "teacher_id": 1,
+        "day": "Monday",
+        "time_slot": "10:30 - 12:00",
+        "room": "Room 102"
+    },
+    {
+        "course_id": 1,
+        "teacher_id": 1,
+        "day": "Thursday",
+        "time_slot": "13:30 - 15:00",
+        "room": "Room 104"
+    },
+    {
+        "course_id": 2,
+        "teacher_id": 2,
+        "day": "Friday",
+        "time_slot": "08:45 - 10:15",
+        "room": "Room 104"
+    },
+    {
+        "course_id": 2,
+        "teacher_id": 2,
+        "day": "Wednesday",
+        "time_slot": "10:30 - 12:00",
+        "room": "Room 103"
+    },
+    {
+        "course_id": 2,
+        "teacher_id": 2,
+        "day": "Tuesday",
+        "time_slot": "13:30 - 15:00",
+        "room": "Room 102"
+    },
+    {
+        "course_id": 4,
+        "teacher_id": 3,
+        "day": "Thursday",
+        "time_slot": "08:45 - 10:15",
+        "room": "Room 102"
+    },
+    {
+        "course_id": 4,
+        "teacher_id": 3,
+        "day": "Wednesday",
+        "time_slot": "10:30 - 12:00",
+        "room": "Room 102"
+    },
+    {
+        "course_id": 4,
+        "teacher_id": 3,
+        "day": "Friday",
+        "time_slot": "13:30 - 15:00",
+        "room": "Room 101"
+    }
+]
